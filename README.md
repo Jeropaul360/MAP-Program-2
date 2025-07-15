@@ -42,13 +42,13 @@ Set alignment to start (left).
 
 Use Text widgets to display:
 
-Name: Alex Smith
+Name: Paul Jero
 
 Age: 22
 
-Email: alex.smith@example.com
+Email: jeropaul360@gmail.com
 
-City: Los Angeles
+City: Coimbatore
 
 Use SizedBox widgets to add spacing between each item.
 
